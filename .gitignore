@@ -1,0 +1,9 @@
+# Ignore files in workspace directory
+*.ipynb
+*.cfg
+*.txt
+sql_queries_august.py
+sql_queries_copy.py
+sql_queries_jr.py
+sql_queries_webinar.py
+
